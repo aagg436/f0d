@@ -1,0 +1,16 @@
+{
+"companyName": "Code Ninjas",
+"productName": "Fod",
+"productVersion": "1",
+"dataUrl": "AG WebGl Fod.data.unityweb",
+"wasmCodeUrl": "AG WebGl Fod.wasm.code.unityweb",
+"wasmFrameworkUrl": "AG WebGl Fod.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.39f1"
+}
